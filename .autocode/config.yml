@@ -1,0 +1,7 @@
+name: zvibo/first_app
+author:
+  name: zvibo
+  email: zvi@kiva.org
+  url: null
+copyright: 2015 zvibo
+description: 'the first app for the ruby on rails tutorial at http://ruby.railstutorial.org/ruby-on-rails-tutorial-book'
